@@ -30,6 +30,6 @@ Nagyjából ezekre a témákra gondoltam:
   A számítógép működési folyamata
 
 Projekt folyamata:
-  Weblapvázlat elkészítése
-  Információk összeszedése
-  Stílus hozzáadása
+  Weblapvázlat elkészítése,
+  Információk összeszedése,
+  Stílus hozzáadása.
