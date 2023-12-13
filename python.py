@@ -1,3 +1,0 @@
-a = "Asd"
-
-print(a)
