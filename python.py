@@ -1,0 +1,3 @@
+a = "Asd"
+
+print(a)
